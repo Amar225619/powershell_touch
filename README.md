@@ -1,5 +1,5 @@
 # powershell_touch
-'touch' command works on PowrShell.  
+'touch' command works on PowerShell.  
 ## MAMES:
 ```
 function : touch_item()
