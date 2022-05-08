@@ -10,7 +10,18 @@ alias    : touch
 PowerShell         : 7.2.3     (Windows10 ja-JP)
 Windows PowerShell : 5.1.19041 (Windows10 ja-JP)
 ```
-
+## USAGE
+```
+PS > cd ~/Documents/[Windows]PowerShell/Modules # If Moodule Folder not-exist, Make it.
+PS > git clone https://github.com/masahiro-kume/powershell_touch.git
+...... Restart Powershell
+```
+## 使い方
+```
+PS > cd ~/Documents/[Windows]PowerShell/Modules # Moodule フォルダがない場合は作成してください
+PS > git clone https://github.com/masahiro-kume/powershell_touch.git
+...... Powershellを再立ち上げしてください
+```
 ## DESCRIPTION:
 
     [SYNOPSIS]
